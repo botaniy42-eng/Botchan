@@ -4,26 +4,23 @@
   
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+SHAHADAT+CHAT+BOT+Fork!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+SHO+CHAT+BOT+Fork!" />
 </p>
 
 <!-- Image -->
-<p align="center">
-  <img src="https://i.imgur.com/u7VnPzH.png" width="300">
-</p>
 
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
 <p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
 
   <!-- SHAHADAT CHAT BOT -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    SHAHADAT CHAT BOT
+    SHO CHAT BOT
   </span>
   <br>
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By SHO
   </span>
 
 </p>
@@ -32,7 +29,10 @@
 <div align="center">
 
   <!-- ⭐ Fork -->
-  <img src="https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/github/forks/shahadat-sahu/abel=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
+
+
+  <!-- ⭐ Or-CHAT-BOT?style=for-the-badge" alt="Forks">
 
   <!-- ⭐ Stars -->
   <img src="https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Stars">
